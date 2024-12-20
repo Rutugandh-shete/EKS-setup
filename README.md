@@ -7,10 +7,10 @@ Amazon Elastic Kubernetes Service (EKS) is a managed Kubernetes service that mak
 ## Overview Diagram
 
 ### EKS Architecture
-![EKS Architecture](https://aws.amazon.com/images/service-diagrams/AWS-EKS_Arch-Diagram.png)
+![EKS Architecture](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/eks-standard-cluster-architecture-ra.drawio.png)
 
 ### EKS Cluster Workflow
-![EKS Workflow](https://aws.amazon.com/images/service-diagrams/AWS-EKS_Cluster_Workflow.png)
+![EKS Workflow](https://raw.githubusercontent.com/awsdocs/amazon-eks-user-guide/master/doc_source/images/eks-cluster-workflow.png)
 
 ---
 
